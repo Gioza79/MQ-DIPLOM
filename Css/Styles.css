@@ -276,7 +276,7 @@ body, h1, h2, h3, h4, a, ul, li, img {
 }
 
 .trend-card {
-  width: 25%;
+  width: calc(25%-1.2rem);
   margin-right: 0.4rem;
 }
 
